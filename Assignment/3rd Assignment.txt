@@ -1,0 +1,29 @@
+3 Assignment
+1]
+==>flowchart is pictorial graphical represantation
+2]
+==>algorithm is step by step instruction
+3]
+==>start/stop symbol, ip/op symbol, flow symbol, decision symbol
+4]
+==> Rules of flowchart arrow use to connect the box
+   flowchart floe top to bottom
+    2 exit pt of decision box
+5]
+==>algorithm is step by step instruction and flowchar is pictorial represntation
+alorithm easy to solve diff problem in flowchart its hard
+   algorithm take lot of time and flow chart reqiured less time
+
+6]
+==>advantages of flowchart error and bug easily identify
+   Helps in proper documentation
+    prog maintanance easy
+drawback= flowchart complex if logic is complex
+
+7]
+==>advatntage of algorithm is step by step instruction
+   big problem divide into small step
+drawback==>take lot of time
+
+8]
+==>

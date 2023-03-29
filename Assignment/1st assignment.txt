@@ -1,0 +1,35 @@
+1 Assignment
+
+1 ]
+
+==> Two type of memory ie primary and secondary memory also called axillary memory
+2]
+==>software is nothing set of program and prog is nothing but set of instruction
+
+3]
+==>integer data we use for sum of 2 num
+
+5]
+==> high level lang easily read write closer to human lang
+
+==>low level laang its machine undastand 
+
+==>java byte code its portable (run other device)
+
+6]
+==>yes java is  high level lang
+
+7]
+
+==>java byte code is low level lang
+
+8]
+==>
+
+9]
+==> compiler translate sorce code into byte code ie .java ==>.class
+
+10]
+==>java virtual machine (JVM) convert byte code into machine code
+
+
