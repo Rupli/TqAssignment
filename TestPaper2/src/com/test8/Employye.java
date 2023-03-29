@@ -1,0 +1,54 @@
+package com.test8;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
+public class Employye {
+	
+	private int id;
+	private String name;
+	private float salary;
+	
+	Employye()
+	{
+		super();
+	}
+	
+	Employye(int id,String name,float salary)
+	{
+		this.id=id;
+		this.name=name;
+		this.salary=salary;
+		
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public float getSalary() {
+		return salary;
+	}
+
+	public void setSalary(float salary) {
+		this.salary = salary;
+	}
+	
+	public String toString()
+	{
+		return "id"+id + "name"+name + "salary:"+ salary;
+	}
+}
